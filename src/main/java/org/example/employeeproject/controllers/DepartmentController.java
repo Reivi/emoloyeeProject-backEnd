@@ -1,7 +1,6 @@
 package org.example.employeeproject.controllers;
 
 import org.example.employeeproject.dto.DepartmentDTO;
-import org.example.employeeproject.models.Department;
 import org.example.employeeproject.service.DepartmentService;
 import org.example.employeeproject.service.DepartmentStructureHistoryService;
 import org.springframework.beans.factory.annotation.Autowired;
